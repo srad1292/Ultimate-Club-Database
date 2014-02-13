@@ -1,0 +1,52 @@
+CREATE TABLE Player (
+    player_id int(4) NOT NULL,
+    f_name varchar(20) NOT NULL,
+    l_name varchar(20) NOT NULL,
+	dob DATE NOT NULL,
+    year int(1),
+    height int(2) NOT NULL,
+    weight int(3) NOT NULL,
+    other_team varchar(30),
+	jerseynum varchar(2)
+);
+
+CREATE TABLE Roster(
+    player_id int (4) NOT NULL,
+    year varchar(4)
+);
+
+CREATE TABLE Guardian(
+    g_fname varchar(20) not null,
+    g_lname varchar(20) not null,
+    player_id int(4) not null,
+    relation varchar(20) not null,
+    phone_num char(12),
+    email varchar(40)
+);
+
+CREATE TABLE Tournament(
+    title varchar(40) not null,
+    tournament_id int(4) not null,
+    description varchar(255),
+    start_date date not null,
+    end_date date not null
+);
+
+CREATE TABLE Game(
+    game_id int(4) not null,
+    tournament_id int(4) not null,
+    opponent varchar(40) not null,
+    asu_final char(5),
+    opp_final char(5),
+    time time not null,
+    date date not null
+);
+
+CREATE TABLE Stats(
+    player_id int(4) not null,
+    game_id int(4) not null,
+    goals int(2) not null,
+    assists int(2) not null,
+    turnovers int(3) not null,
+    def_plays int(3) not null
+);

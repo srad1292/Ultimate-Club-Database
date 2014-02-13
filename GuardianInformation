@@ -1,0 +1,90 @@
+insert into Guardian values
+   ('Terry', 'Stumpf', 1, 'Father', '9192917982', 'keylisa60@gmail.com');
+
+insert into Guardian values
+   ('Randall', 'Barnett', 2, 'Father', '8282427288', null);
+
+insert into Guardian values
+   ('Sam', 'Thomsen', 3, 'Father', '9193373700', null);
+
+insert into Guardian values
+   ('Harry', 'Nicholos', 4, 'Father', '9196003910', 'harry.nicholos@gmail.com');
+
+insert into Guardian values
+   ('Cathy', 'Sprankle', 5, 'Mother', '9193681251', null);
+
+insert into Guardian values
+   ('Shielah', 'Hartford', 6, 'Mother', '9193577335', null);
+ 
+insert into Guardian values
+   ('Kim', 'Gilliam', 7, 'Mother', '9199248432', 'kimberlyachappell@gmail.com');
+
+insert into Guardian values
+   ('Dana', 'Conklin', 8, 'Mother', '7046773464', null);
+
+insert into Guardian values
+   ('Rebecca', 'Ritchie', 9, 'Mother', '7047786332', null);
+
+insert into Guardian values
+   ('Mir Ahmad', 'Hazheer', 10, 'Father', '9196568402', 'business336@gmail.com');
+
+insert into Guardian values
+   ('William', 'Thornton', 11, 'Father', '9105781450', null);
+
+insert into Guardian values
+   ('Judy', 'Colby', 12, 'Mother', '9198465349', null);
+
+insert into Guardian values
+   ('Laurie', 'Byrley', 13, 'Mother', '8286743565', 'lauriehansen@bellsouth.net');
+
+insert into Guardian values
+   ('Michael', 'Combest', 14, 'Father', '3362513872', 'michaelcombest@yahoo.com');
+
+insert into Guardian values
+   ('Sarah', 'Taymore', 15, 'Mother', '6175293992', null);
+
+insert into Guardian values
+   ('Joanne', 'Schanz', 16, 'Mother', '9192199514', 'bschanz@ao.com');
+
+insert into Guardian values
+   ('Tsu Phinn', 'Hee', 17, 'Father', '7187810760', null);
+
+insert into Guardian values
+   ('Dan', 'Russell', 18, 'Father', '6037140616', 'camprussell@juno.com');
+
+insert into Guardian values   
+   ('Penny', 'Rich-Voorhees', 19, 'Mother', '9194285952', 'prich1@nc.rr.com');
+
+insert into Guardian values
+   ('Diane', 'Olive', 20, 'Mother', '9197969041', null);
+
+insert into Guardian values
+   ('Thelma', 'Prange', 21, 'Mother', '9049552632', null);
+
+insert into Guardian values
+   ('John', 'Barry', 22, 'Father', '8282663351', null);
+
+insert into Guardian values
+   ('Charles', 'Rhodes', 23, 'Father', null, null);
+
+insert into Guardian values
+   ('Shawn', 'Downs', 24, 'Father', '7045311797', null);
+
+insert into Guardian values
+   ('Dee dee', 'Edwards', 25, 'Mother', '7048064816', null);
+
+insert into Guardian values
+   ('Rurick Sr', 'Kellermann', 26, 'Father', '9196015692', null);
+
+insert into Guardian values
+   ('Lyn', 'Medlin', 27, 'Mother', '9196129911', 'lyn.medlin@percivalladvertising.com');
+
+insert into Guardian values
+   ('Brendan', 'Nordgren', 28, 'Mother', '7062556053', null);
+
+insert into Guardian values
+   ('Eileen', 'Curinga', 30, 'Mother', '9104315429', 'eileenadele@gmail.com');
+
+insert into Guardian values
+   ('Jeanne', 'Riek', 31, 'Mother', '9196080525', 'jlriek@gmail.com');
+

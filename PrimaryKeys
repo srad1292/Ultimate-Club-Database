@@ -1,0 +1,23 @@
+ALTER TABLE Player ADD(
+    CONSTRAINT PRIMARY KEY(player_id)
+);
+
+ALTER TABLE Roster ADD(
+    CONSTRAINT PRIMARY KEY(player_id,year)
+);
+
+ALTER TABLE Guardian ADD(
+    CONSTRAINT PRIMARY KEY(g_fname,player_id)
+);
+
+ALTER TABLE Tournament ADD(
+    CONSTRAINT PRIMARY KEY(tournament_id)  
+);
+
+ALTER TABLE Game ADD(
+    CONSTRAINT PRIMARY KEY(game_id)
+);
+
+ALTER TABLE Stats ADD(
+    CONSTRAINT PRIMARY KEY(game_id,player_id)
+);

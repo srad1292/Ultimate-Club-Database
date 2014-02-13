@@ -1,0 +1,16 @@
+ALTER TABLE Roster ADD(
+    CONSTRAINT FOREIGN KEY(player_id) REFERENCES Player(player_id)
+);
+
+ALTER TABLE Guardian ADD(
+    CONSTRAINT FOREIGN KEY(player_id) REFERENCES Player(player_id)
+);
+
+ALTER TABLE Game ADD(
+    CONSTRAINT FOREIGN KEY(tournament_id) REFERENCES Tournament(tournament_id)
+);
+
+ALTER TABLE Stats ADD(
+    CONSTRAINT FOREIGN KEY(game_id) REFERENCES Game(game_id),
+    CONSTRAINT FOREIGN KEY(player_id) REFERENCES Player(player_id)
+);

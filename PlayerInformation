@@ -1,0 +1,93 @@
+insert into Player values 
+   (1, 'Mark', 'Stumpf', '1991-12-04', 4, 74, 170, 'Old North State', '29'); 
+
+insert into Player values
+   (2, 'Cameron', 'Barnett', '1994-01-28', 2, 70, 140, null, null);
+
+insert into Player values
+   (3, 'Benjamin', 'Thomsen', '1995-01-22', 1, 73, 175, null, null);
+
+insert into Player values
+   (4, 'Alexander', 'Nicholos', '1994-07-06', 2, 71, 185, null, null);
+
+insert into Player values
+   (5, 'Rob', 'Sprankle', '1995-04-12', 1, 69, 190, null, null);
+
+insert into Player values
+   (6, 'Luke', 'Hartford', '1990-11-16', 3, 65, 180, null, null);
+
+insert into Player values
+   (7, 'Nick', 'Gilliam', '1994-12-02', 1, 75, 180, null, null);
+
+insert into Player values
+   (8, 'Eric', 'Conklin', '1992-07-14', 4, 73, 155, 'BooneShaka', '21');
+
+insert into Player values
+   (9, 'Caleb', 'Ritchie', '1992-10-08', 3, 73, 165, null, null);
+
+insert into Player values
+   (10, 'Mehran', 'Hazheer', '1994-12-03', 1, 70, 170, null, null);
+
+insert into Player values
+   (11, 'Santino', 'Thornton', '1994-11-09', 1, 70, 143, null, null);
+
+insert into Player values
+   (12, 'Jeff', 'Colby', '1993-04-09', 3, 72, 150, null, null);
+
+insert into Player values
+   (13, 'Kevin', 'Byrley', '1993-05-19', 3, 74, 172, 'Cash Crop', null);
+
+insert into Player values
+   (14, 'Ian', 'Combest', '1993-07-28', 3, 72, 145, 'Pilot', null);
+
+insert into Player values
+   (15, 'Crosby', 'Taymore', '1993-05-15', 3, 71, 173, null, null);
+
+insert into Player values
+   (16, 'Ryan', 'Schanz', '1992-06-16', 4, 72, 170, 'Old North State', '03');
+
+insert into Player values
+   (17, 'Brian', 'Hee', '1992-01-03', 4, 69, 150, null, null);
+
+insert into Player values
+   (18, 'Adam', 'Russell', '1993-06-30', 3, 72, 165, 'Old North State / Inception', '11');
+
+insert into Player values
+   (19, 'Mikko', 'Rich-Voorhees', '1995-06-03', 1, 72, 150, null, '13');
+
+insert into Player values
+   (20, 'Austin', 'Olive', '1993-03-17', 3, 73, 145, 'Old North State / Los', '12');
+
+insert into Player values
+   (21, 'Jake', 'Prange', '1993-11-30', 2, 69, 155, null, null);
+
+insert into Player values
+   (22, 'Ian', 'Barry', '1994-01-15', 1, 69, 170, null, null);
+
+insert into Player values
+   (23, 'Ryan', 'Rhodes', '1990-05-06', 3, 70, 140, null, null);
+
+insert into Player values
+   (24, 'Zachary', 'Downs', '1995-07-11', 1, 72, 175, null, null);
+
+insert into Player values
+   (25, 'Gary', 'Edwards', '1995-01-12', 1, 71, 155, null, null);
+
+insert into Player values
+   (26, 'Rurick', 'Kellermann', '1992-10-11', 4, 67, 155, 'BooneShaka', '05');
+
+insert into Player values
+   (27, 'Alex', 'Medlin', '1995-03-20', 1, 71, 160, null, null);
+
+insert into Player values
+   (28, 'Jeff', 'Nordgren', '1991-07-06', 4, 70, 165, null, '33');
+
+insert into Player values
+   (29, 'Michael', 'Haigh', '1994-10-06', 1, 69, 170, null, null);
+
+insert into Player values
+   (30, 'Mike', 'Curinga', '1994-01-12', 2, 70, 152, null, null);
+
+insert into Player values
+   (31, 'Alex', 'Riek', '1994-01-21', 2, 67, 160, null, null);
+

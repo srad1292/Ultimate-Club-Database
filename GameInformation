@@ -1,0 +1,46 @@
+
+insert into Game values
+    (1, 1, 'Eastern Mennonite University', 13, 8, '09:00', '2013-10-05'); 
+insert into Game values
+    (2, 1, 'Virginia', 13, 9, '12:30', '2013-10-05'); 
+insert into Game values
+    (3, 1, 'North Carolina State', 8, 13, '14:15', '2013-10-05'); 
+insert into Game Values
+    (4, 1, 'Roanoke', 13, 5, '16:00', '2013-10-05');
+insert into Game Values
+    (5, 1, 'Old Dominion', 15, 8, '09:00', '2013-10-06');
+insert into Game Values
+    (6, 1, 'North Carolina State', 7, 12, '11:00', '2013-10-06');   
+insert into Game Values
+    (7, 1, 'Richmond', 15, 9, '13:00', '2013-10-06');
+insert into Game Values
+    (8, 2, 'North Carolina-Greensboro', 15, 8, '10:00', '2013-10-19'); 
+insert into Game Values
+    (9, 2, 'Elon', 10, 11, '12:00', '2013-10-19'); 
+insert into Game Values
+    (10, 2, 'North Carolina-Wilmington X', 11, 14, '14:00', '2013-10-19'); 
+insert into Game Values
+    (11, 2, 'South Carolina', 12, 11, '16:00', '2013-10-19');
+insert into Game Values
+    (12, 2, 'North Carolina X', 12, 13, '10:00', '2013-10-20');
+insert into Game Values
+    (13, 2, 'North Carolina-Wilmington Y', 13, 10, '12:00', '2013-10-20');   
+insert into Game Values
+    (14, 2, 'William & Mary', 15, 10, '14:00', '2013-10-20');
+insert into Game Values
+    (15, 3, 'Clemson', 13, 9, '09:00', '2013-11-02'); 
+insert into Game Values
+    (16, 3, 'North Carolina-Wilmington-B', 13, 2, '12:00', '2013-11-02'); 
+insert into Game Values
+    (17, 3, 'Delaware', 12, 13, '13:30', '2013-11-02'); 
+insert into Game Values
+    (18, 3, 'North Carolina-Wilmington', 10, 12, '15:00', '2013-11-02');
+insert into Game Values
+    (19, 3, 'South Carolina', 15, 10, '09:00', '2013-11-03');
+insert into Game Values
+    (20, 3, 'North Carolina', 6, 15, '11:00', '2013-11-03');   
+insert into Game Values
+    (21, 3, 'George Washington', 14, 8, '13:00', '2013-11-03');
+insert into Game Values
+    (22, 3, 'North Carolina-Wilmington', 8, 11, '15:00', '2013-11-03');
+

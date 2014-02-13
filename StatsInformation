@@ -1,0 +1,90 @@
+insert into Stats values
+   (1, 1, 2, 1, 2, 2);
+
+insert into Stats values
+   (12, 1, 1, 2, 3, 1);
+
+insert into Stats values
+   (5, 1, 1, 3, 1, 3);
+
+insert into Stats values
+   (7, 1, 2, 0, 0, 0);
+
+insert into Stats values
+   (23, 1, 0, 2, 0, 0);
+
+insert into Stats values
+   (15, 1, 0, 0, 2, 2);
+
+insert into Stats values
+   (13, 1, 2, 1, 4, 1);
+
+insert into Stats values
+   (4, 1, 3, 3, 2, 2);
+
+insert into Stats values
+   (3, 1, 0, 2, 3, 1);
+
+insert into Stats values
+   (11, 1, 1, 1, 1, 1);
+
+insert into Stats values
+   (5, 2, 1, 1, 2, 2);
+
+insert into Stats values
+   (26, 2, 2, 2, 3, 1);
+
+insert into Stats values
+   (31, 2, 1, 3, 1, 3);
+
+insert into Stats values
+   (23, 2, 2, 0, 0, 0);
+
+insert into Stats values
+   (15, 2, 1, 2, 0, 0);
+
+insert into Stats values
+   (18, 2, 0, 0, 2, 2);
+
+insert into Stats values
+   (19, 2, 2, 1, 4, 1);
+
+insert into Stats values
+   (3, 2, 3, 3, 2, 2);
+
+insert into Stats values
+   (6, 2, 0, 2, 3, 1);
+
+insert into Stats values
+   (10, 2, 1, 1, 1, 1);
+
+insert into Stats values
+   (17, 3, 0, 1, 2, 2);
+
+insert into Stats values
+   (9, 3, 0, 2, 3, 1);
+
+insert into Stats values
+   (1, 3, 1, 3, 1, 3);
+
+insert into Stats values
+   (2, 3, 0, 0, 0, 0);
+
+insert into Stats values
+   (18, 3, 1, 2, 0, 0);
+
+insert into Stats values
+   (8, 3, 0, 0, 2, 2);
+
+insert into Stats values
+   (7, 3, 2, 1, 4, 1);
+
+insert into Stats values
+   (30, 3, 3, 3, 2, 2);
+
+insert into Stats values
+   (20, 3, 0, 2, 3, 1);
+
+insert into Stats values
+   (21, 3, 1, 1, 1, 1);
+

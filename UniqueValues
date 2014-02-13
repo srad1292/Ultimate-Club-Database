@@ -1,0 +1,5 @@
+ALTER TABLE Guardian ADD(
+    UNIQUE(email),
+    UNIQUE(phone_num)
+);
+

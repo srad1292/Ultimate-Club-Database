@@ -1,0 +1,166 @@
+Query 1(Sam)
+
+select title, tournament_id
+from Tournament;
+
++----------------------------+---------------+
+| title                      | tournament_id |
++----------------------------+---------------+
+| Cavalier Cup               |             1 |
+| Wolfpack Invitational 2013 |             2 |
+| Fall Easterns              |             3 |
++----------------------------+---------------+
+
+
+Query 2(Sam)
+select g_fname, f_name
+from Player, Guardian
+where Guardian.player_id = Player.player_id
+      and relation = 'Father';
+
++-----------+-----------+
+| g_fname   | f_name    |
++-----------+-----------+
+| Charles   | Ryan      |
+| Dan       | Adam      |
+| Harry     | Alexander |
+| John      | Ian       |
+| Michael   | Ian       |
+| Mir Ahmad | Mehran    |
+| Randall   | Cameron   |
+| Rurick Sr | Rurick    |
+| Sam       | Benjamin  |
+| Shawn     | Zachary   |
+| Terry     | Mark      |
+| Tsu Phinn | Brian     |
+| William   | Santino   |
++-----------+-----------+
+
+
+Query 3(Sam)
+select f_name, l_name
+from Player, Stats
+where Stats.player_id = Player.player_id
+      and game_id = 2;
+
++----------+---------------+
+| f_name   | l_name        |
++----------+---------------+
+| Benjamin | Thomsen       |
+| Rob      | Sprankle      |
+| Luke     | Hartford      |
+| Mehran   | Hazheer       |
+| Crosby   | Taymore       |
+| Adam     | Russell       |
+| Mikko    | Rich-Voorhees |
+| Ryan     | Rhodes        |
+| Rurick   | Kellermann    |
+| Alex     | Riek          |
++----------+---------------+
+
+Query 4(Bradley)
+select f_name, l_name, dob
+from Player
+where f_name = "Ian";
+
++--------+---------+------------+
+| f_name | l_name  | dob        |
++--------+---------+------------+
+| Ian    | Combest | 1993-07-28 |
+| Ian    | Barry   | 1994-01-15 |
++--------+---------+------------+
+
+
+Query 5(Bradley)
+select opponent
+from Tournament, Game
+where start_date = date;
+
++------------------------------+
+| opponent                     |
++------------------------------+
+| Eastern Mennonite University |
+| Virginia                     |
+| North Carolina State         |
+| Roanoke                      |
+| North Carolina-Greensboro    |
+| Elon                         |
+| North Carolina-Wilmington X  |
+| South Carolina               |
+| Clemson                      |
+| North Carolina-Wilmington-B  |
+| Delaware                     |
+| North Carolina-Wilmington    |
++------------------------------+
+
+
+Query 6(Bradley)
+select f_name, l_name, goals, assists
+from Player, Stats
+where Player.player_id = Stats.player_id
+      and game_id = 2
+      and goals > 0
+      and assists > 0;
+
++----------+---------------+-------+---------+
+| f_name   | l_name        | goals | assists |
++----------+---------------+-------+---------+
+| Benjamin | Thomsen       |     3 |       3 |
+| Rob      | Sprankle      |     1 |       1 |
+| Mehran   | Hazheer       |     1 |       1 |
+| Crosby   | Taymore       |     1 |       2 |
+| Mikko    | Rich-Voorhees |     2 |       1 |
+| Rurick   | Kellermann    |     2 |       2 |
+| Alex     | Riek          |     1 |       3 |
++----------+---------------+-------+---------+
+
+
+Query 7(Mark)
+select opponent
+from Game
+where tournament_id = 2;
+
++-----------------------------+
+| opponent                    |
++-----------------------------+
+| North Carolina-Greensboro   |
+| Elon                        |
+| North Carolina-Wilmington X |
+| South Carolina              |
+| North Carolina X            |
+| North Carolina-Wilmington Y |
+| William & Mary              |
++-----------------------------+
+
+
+Query 8(Mark)
+select title
+from Tournament
+where description = 'Raleigh, NC';
+
++----------------------------+
+| title                      |
++----------------------------+
+| Wolfpack Invitational 2013 |
++----------------------------+
+
+
+Query 9(Mark)
+select f_name, l_name, turnovers
+from Stats, Player
+where Stats.player_id = Player.player_id
+      and turnovers > 1
+      and game_id = 2;
+
++----------+---------------+-----------+
+| f_name   | l_name        | turnovers |
++----------+---------------+-----------+
+| Benjamin | Thomsen       |         2 |
+| Rob      | Sprankle      |         2 |
+| Luke     | Hartford      |         3 |
+| Adam     | Russell       |         2 |
+| Mikko    | Rich-Voorhees |         4 |
+| Rurick   | Kellermann    |         3 |
++----------+---------------+-----------+
+
+

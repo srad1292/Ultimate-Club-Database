@@ -1,0 +1,42 @@
+select title, tournament_id
+from Tournament;
+
+
+select g_fname, f_name
+from Player, Guardian
+where Guardian.player_id = Player.player_id 
+      and relation = 'Father';
+
+select f_name, l_name
+from Player, Stats
+where Stats.player_id = Player.player_id
+      and game_id = 2;
+
+select f_name, l_name, dob
+from Player
+where f_name = "Ian";
+
+select opponent
+from Tournament, Game
+where start_date = date;
+
+select f_name, l_name, goals, assists
+from Player, Stats
+where Player.player_id = Stats.player_id
+      and game_id = 2
+      and goals > 0
+      and assists > 0;
+
+select opponent
+from Game
+where tournament_id = 2;
+
+select title
+from Tournament
+where description = 'Raleigh, NC';
+
+select f_name, l_name, turnovers
+from Stats, Player
+where Stats.player_id = Player.player_id
+      and turnovers > 1
+      and game_id = 2;
