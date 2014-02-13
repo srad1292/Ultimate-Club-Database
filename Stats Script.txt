@@ -1,0 +1,96 @@
+﻿s1 = Stats.create(game_id: 1, player_id: 1, goals: 2, assists: 1, turnovers: 2, def_plays: 2)
+
+
+s2 = Stats.create(game_id: 1, player_id: 12, goals: 1, assists: 2, turnovers: 3, def_plays: 1)
+
+
+s3 = Stats.create(game_id: 1, player_id: 5, goals: 1, assists: 3, turnovers: 1, def_plays: 3)
+
+
+s4 = Stats.create(game_id: 1, player_id: 7, goals: 2, assists: 0, turnovers: 0, def_plays: 0)
+
+
+s5 = Stats.create(game_id: 1, player_id: 23, goals: 0, assists: 2, turnovers: 0, def_plays: 0)
+
+
+s6 = Stats.create(game_id: 1, player_id: 15, goals: 0, assists: 0, turnovers: 2, def_plays: 2)
+
+
+s7 = Stats.create(game_id: 1, player_id: 13, goals: 2, assists: 1, turnovers: 4, def_plays: 1)
+
+
+s8 = Stats.create(game_id: 1, player_id: 4, goals: 3, assists: 3, turnovers: 2, def_plays: 2)
+
+
+s9 = Stats.create(game_id: 1, player_id: 3, goals: 0, assists: 2, turnovers: 3, def_plays: 1)
+
+
+s10 = Stats.create(game_id: 1, player_id: 11, goals: 1, assists: 1, turnovers: 1, def_plays: 1)
+
+
+
+
+
+
+s11 = Stats.create(game_id: 2, player_id: 5, goals: 1, assists: 1, turnovers: 2, def_plays: 2)
+
+
+s12 = Stats.create(game_id: 2, player_id: 26, goals: 2, assists: 2, turnovers: 3, def_plays: 1)
+
+
+s13 = Stats.create(game_id: 2, player_id: 31, goals: 1, assists: 3, turnovers: 1, def_plays: 3)
+
+
+s14 = Stats.create(game_id: 2, player_id: 23, goals: 2, assists: 0, turnovers: 0, def_plays: 0)
+
+
+s15 = Stats.create(game_id: 2, player_id: 15, goals: 1, assists: 2, turnovers: 0, def_plays: 0)
+
+
+s16 = Stats.create(game_id: 2, player_id: 18, goals: 0, assists: 0, turnovers: 2, def_plays: 2)
+
+
+s17 = Stats.create(game_id: 2, player_id: 19, goals: 2, assists: 1, turnovers: 4, def_plays: 1)
+
+
+s18 = Stats.create(game_id: 2, player_id: 3, goals: 3, assists: 3, turnovers: 2, def_plays: 2)
+
+
+s19 = Stats.create(game_id: 2, player_id: 6, goals: 0, assists: 2, turnovers: 3, def_plays: 1)
+
+
+s20 = Stats.create(game_id: 2, player_id: 10, goals: 1, assists: 1, turnovers: 1, def_plays: 1)
+
+
+
+
+
+
+s21 = Stats.create(game_id: 3, player_id: 17, goals: 0, assists: 1, turnovers: 2, def_plays: 2)
+
+
+s22 = Stats.create(game_id: 3, player_id: 9, goals: 0, assists: 2, turnovers: 3, def_plays: 1)
+
+
+s23 = Stats.create(game_id: 3, player_id: 1, goals: 1, assists: 3, turnovers: 1, def_plays: 3)
+
+
+s24 = Stats.create(game_id: 3, player_id: 2, goals: 0, assists: 0, turnovers: 0, def_plays: 0)
+
+
+s25 = Stats.create(game_id: 3, player_id: 18, goals: 1, assists: 2, turnovers: 0, def_plays: 0)
+
+
+s26 = Stats.create(game_id: 3, player_id: 8, goals: 0, assists: 0, turnovers: 2, def_plays: 2)
+
+
+s27 = Stats.create(game_id: 3, player_id: 7, goals: 2, assists: 1, turnovers: 4, def_plays: 1)
+
+
+s28 = Stats.create(game_id: 3, player_id: 30, goals: 3, assists: 3, turnovers: 2, def_plays: 2)
+
+
+s29 = Stats.create(game_id: 3, player_id: 20, goals: 0, assists: 2, turnovers: 3, def_plays: 1)
+
+
+s30 = Stats.create(game_id: 3, player_id: 21, goals: 1, assists: 1, turnovers: 1, def_plays: 1)

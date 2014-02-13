@@ -1,0 +1,97 @@
+﻿player1 = Player.create(f_name: 'Mark', l_name: 'Stumpf', dob: '04/12/1991', year: 4, height: 74, weight: 170, other_team: 'Old North State', jerseynum: '29') 
+
+
+player2 = Player.create(f_name: 'Cameron', l_name: 'Barnett', dob: '28/01/1994', year: 2, height: 70, weight: 140, jerseynum: '')
+
+
+player3 = Player.create(f_name: 'Benjamin', l_name: 'Thomsen', dob: '22/01/1995', year: 1, height: 73, weight: 175, jerseynum: '')
+
+
+player4 = Player.create(f_name: 'Alexander', l_name: 'Nicholos', dob: '06/07/1994', year: 2, height: 71, weight: 185, jerseynum: '')
+
+
+player5 = Player.create(f_name: 'Rob', l_name: 'Sprankle', dob: '12/04/1995', year: 1, height: 69, weight: 190, jerseynum: '')
+
+
+player6 = Player.create(f_name: 'Luke', l_name: 'Hartford', dob: '16/11/1990', year: 3, height: 65, weight: 180, jerseynum: '')
+
+
+player7 = Player.create(f_name: 'Nick', l_name: 'Gilliam', dob: '02/12/1994', year: 1, height: 75, weight: 180, jerseynum: '')
+
+
+player8 = Player.create(f_name: 'Eric', l_name: 'Conklin', dob: '14/07/1992', year: 4, height: 73, weight: 155, other_team: 'BooneShaka', jerseynum: '21')
+
+
+player9 = Player.create(f_name: 'Caleb', l_name: 'Ritchie', dob: '08/10/1992', year: 3, height: 73, weight: 165, jerseynum: '')
+
+
+player10 = Player.create(f_name: 'Mehran', l_name: 'Hazheer', dob: '03/12/1994', year: 1, height: 70, weight: 170, jerseynum: '')
+
+
+player11 = Player.create(f_name: 'Santino', l_name: 'Thornton', dob: '09/11/1994', year: 1, height: 70, weight: 143, jerseynum: '')
+
+
+player12 = Player.create(f_name: 'Jeff', l_name: 'Colby', dob: '09/04/1993', year: 3, height: 72, weight: 150, jerseynum: '')
+
+
+
+
+player13 = Player.create(f_name: 'Kevin', l_name: 'Byrley', dob: '19/05/1993', year: 3, height: 74, weight: 172, other_team: 'Cash Crop', jerseynum: '')
+
+
+player14 = Player.create(f_name: 'Ian', l_name: 'Combest', dob: '28/07/1998', year: 3, height: 72, weight: 145, other_team: 'Pilot', jerseynum: '')
+
+
+
+
+player15 = Player.create(f_name: 'Crosby', l_name: 'Taymore', dob: '15/05/1993', year: 3, height: 71, weight: 173, jerseynum: '')
+
+
+player16 = Player.create(f_name: 'Ryan', l_name: 'Schanz', dob: '16/06/1992', year: 4, height: 72, weight: 170, other_team: 'Old North State', jerseynum: '03')
+
+
+player17 = Player.create(f_name: 'Brian', l_name: 'Hee', dob: '03/01/1992', year: 4, height: 69, weight: 150, jerseynum: '')
+
+
+player18 = Player.create(f_name: 'Adam', l_name: 'Russell', dob: '30/06/1993', year: 3, height: 72, weight: 165, other_team: 'Old North State / Inception', jerseynum: '11')
+
+
+player19 = Player.create(f_name: 'Mikko', l_name: 'Rich-Voorhees', dob: '03/06/1995', year: 1, height: 72, weight: 150, jerseynum: '13')
+
+
+player20 = Player.create(f_name: 'Austin', l_name: 'Olive', dob: '17/03/1993', year: 3, height: 73, weight: 145, other_team: 'Old North State / Los', jerseynum: '12')
+
+
+player21 = Player.create(f_name: 'Jake', l_name: 'Prange', dob: '30/11/1993', year: 2, height: 69, weight: 155, jerseynum: '')
+
+
+player22 = Player.create(f_name: 'Ian', l_name: 'Barry', dob: '15/01/1994', year: 1, height: 69, weight: 170, jerseynum: '')
+
+
+player23 = Player.create(f_name: 'Ryan', l_name: 'Rhodes', dob: '06/05/1990', year: 3, height: 70, weight: 140, jerseynum: '')
+
+
+player24 = Player.create(f_name: 'Zachary', l_name: 'Downs', dob: '11/07/1995', year: 1, height: 72, weight: 175, jerseynum: '')
+
+
+player25 = Player.create(f_name: 'Gary', l_name: 'Edwards', dob: '12/01/1995', year: 1, height: 71, weight: 155, jerseynum: '')
+
+
+player26 = Player.create(f_name: 'Rurick', l_name: 'Kellermann', dob: '11/10/1992', year: 4, height: 67, weight: 155, other_team: 'BooneShaka', jerseynum: '05')
+
+
+player27 = Player.create(f_name: 'Alex', l_name: 'Medlin', dob: '20/03/1995', year: 1, height: 71, weight: 160, jerseynum: '')
+
+
+player28 = Player.create(f_name: 'Jeff', l_name: 'Nordgren', dob: '06/07/1991', year: 4, height: 70, weight: 165, jerseynum: '33')
+
+
+
+
+player29 = Player.create(f_name: 'Michael', l_name: 'Haigh', dob: '06/10/1994', year: 1, height: 69, weight: 170, jerseynum: '')
+
+
+player30 = Player.create(f_name: 'Mike', l_name: 'Curinga', dob: '12/01/1994', year: 2, height: 70, weight: 152, jerseynum: '')
+
+
+player31 = Player.create(f_name: 'Alex', l_name: 'Riek', dob: '21/01/1994', year: 2, height: 67, weight: 160, jerseynum: '')

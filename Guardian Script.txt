@@ -1,0 +1,94 @@
+﻿g1 = Guardian.create(g_fname: ‘Terry’, g_lname: ‘Stumpf’, player_id: 1, relation: ‘Father’, phone_num: ‘9192917982’, email: ‘keylisa60@gmail.com’)
+
+
+g2 = Guardian.create(g_fname: ‘Randall’, g_lname: ‘Barnett’, player_id: 2, relation: ‘Father’, phone_num: ‘8282427288’) 
+
+
+g3 = Guardian.create(g_fname: ‘Sam’, g_lname: ‘Thomsen’, player_id: 3, relation: ‘Father’, phone_num: ‘9193373700’)
+
+
+g4 = Guardian.create(g_fname: ‘Harry’, g_lname: ‘Nicholos’, player_id: 4, relation: ‘Father’, phone_num: ‘9196003910’, email: ‘harry.nicholos@gmail.com’)
+
+
+g5 = Guardian.create(g_fname: ‘Cathy’, g_lname: ‘Sprankle’, player_id: 5, relation: ‘Mother’, phone_num: ‘9193681251’)
+
+
+g6 = Guardian.create(g_fname: ‘Shielah’, g_lname: ‘Hartford’, player_id: 6, relation: ‘Mother’, phone_num: ‘9193577335’)
+
+
+g7 = Guardian.create(g_fname: ‘Kim’, g_lname: ‘Gilliam’, player_id: 7, relation: ‘Mother’, phone_num: ‘9199248432’, email: ‘kimberlyachappell@gmail.com’)
+
+
+g8 = Guardian.create(g_fname: ‘Dana’, g_lname: ‘Conklin’, player_id: 8, relation: ‘Mother’, phone_num: ‘7046773464’)
+
+
+g9 = Guardian.create(g_fname: ‘Rebecca’, g_lname: ‘Ritchie’, player_id: 9, relation: ‘Mother’, phone_num: ‘7047786332’)
+
+
+g10 = Guardian.create(g_fname: ‘Mir Ahmad’, g_lname: ‘Hazheer’, player_id: 10, relation: ‘Father’, phone_num: ‘9196568402’, email: ‘business336@gmail.com’)
+
+
+g11 = Guardian.create(g_fname: ‘William’, g_lname: ‘Thornton’, player_id: 11, relation: ‘Father’, phone_num: ‘9105781450’)
+
+
+g12 = Guardian.create(g_fname: ‘Judy’, g_lname: ‘Colby’, player_id: 12, relation: ‘Mother’, phone_num: ‘9198465349’)
+
+
+g13 = Guardian.create(g_fname: ‘Laurie’, g_lname: ‘Byrley’, player_id: 13, relation: ‘Mother’, phone_num: ‘8286743565’, email: ‘lauriehansen@bellsouth.net’)
+
+
+g14 = Guardian.create(g_fname: ‘Michael’, g_lname: ‘Combest’, player_id: 14, relation: ‘Father’, phone_num: ‘3362513872’, email: ‘michaelcombest@yahoo.com’)
+
+
+
+
+g15 = Guardian.create(g_fname: ‘Sarah’, g_lname: ‘Taymore’, player_id: 15, relation: ‘Mother’, phone_num: ‘6175293992’)
+
+
+g16 = Guardian.create(g_fname: ‘Joanne’, g_lname: ‘Schanz’, player_id: 16, relation: ‘Mother’, phone_num: ‘9192199514’, email: ‘bschanz@aol.com’)
+
+
+g17 = Guardian.create(g_fname: ‘Tsu Phinn’, g_lname: ‘Hee’, player_id: 17, relation: ‘Father’, phone_num: ‘7187810760’)
+
+
+g18 = Guardian.create(g_fname: ‘Dan’, g_lname: ‘Russell’, player_id: 18, relation: ‘Father’, phone_num: ‘6037140616’, email: ‘camprussell@juno.com’)
+
+
+g19 = Guardian.create(g_fname: ‘Penny’, g_lname: ‘Rich-Voorhees’, player_id: 19, relation: ‘Mother’, phone_num: ‘9194285952’, email: ‘prich1@nc.rr.com’)
+
+
+g20 = Guardian.create(g_fname: ‘Diane’, g_lname: ‘Olive’, player_id: 20, relation: ‘Mother’, phone_num: ‘9197969041’)
+
+
+g21 = Guardian.create(g_fname: ‘Thelma’, g_lname: ‘Prange’, player_id: 21, relation: ‘Mother’, phone_num: ‘9049552632’)
+
+
+g22 = Guardian.create(g_fname: ‘John’, g_lname: ‘Barry’, player_id: 22, relation: ‘Father’, phone_num: ‘8282663351’)
+
+
+g23 = Guardian.create(g_fname: ‘Charles’, g_lname: ‘Rhodes’, player_id: 23, relation: ‘Father’)
+
+
+g24 = Guardian.create(g_fname: ‘Shawn’, g_lname: ‘Downs’, player_id: 24, relation: ‘Father’, phone_num: ‘7045311797’)
+
+
+g25 = Guardian.create(g_fname: ‘Dee dee’, g_lname: ‘Edwards’, player_id: 25, relation: ‘Mother’, phone_num: ‘7048064816’)
+
+
+g26 = Guardian.create(g_fname: ‘Rurick Sr.’, g_lname: ‘Kellermann’, player_id: 26, relation: ‘Father’, phone_num: ‘9196015692’)
+
+
+g27 = Guardian.create(g_fname: ‘Lyn’, g_lname: ‘Medlin’, player_id: 27, relation: ‘Mother’, phone_num: ‘9196129911’, email: ‘lyn.medlin@percivalladvertising.com’)
+
+
+g28 = Guardian.create(g_fname: ‘Brendan’, g_lname: ‘Nordgren’, player_id: 28, relation: ‘Mother’, phone_num: ‘7062556053’)
+
+
+
+
+
+
+g29 = Guardian.create(g_fname: ‘Eileen’, g_lname: ‘Curinga’, player_id: 30, relation: ‘Mother’, phone_num: ‘9104315429’, email: ‘eileenadele@gmail.com’)
+
+
+g30 = Guardian.create(g_fname: ‘Jeanne’, g_lname: ‘Riek’, player_id: 31, relation: ‘Mother’, phone_num: ‘9196080525’, email: ‘jlriek@gmail.com’)
